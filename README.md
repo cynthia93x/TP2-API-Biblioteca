@@ -57,7 +57,7 @@ biblioteca-api/
             ├── libro.service.ts
             ├── libro.controller.ts
             └── libro.routes.ts
-
+```
 
 
 ## 3. Configurar MongoDB Atlas 
